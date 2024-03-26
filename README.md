@@ -1,2 +1,4 @@
-# Q1-Pro
-Storage of Q1-Pro related documents and files
+# Q1-Pro Standard Operating Procedures (SOP)
+Please read this document in its entirety to learn how to use the Q1-Pro 3d printer safely and responsibly.
+
+
