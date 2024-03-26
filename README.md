@@ -13,7 +13,7 @@ This Document will cover:
 * Printer specific features & hazards
 * Rules & Misc. Procedures
 ----------
-  Machine Specific firmware and documentation can be found on the [`Qidi Github Page`](https://github.com/QIDITECH/QIDI_Q1_Pro)
+  Machine Specific firmware and documentation can be found on the [`Qidi Q1-ProGithub Page`](https://github.com/QIDITECH/QIDI_Q1_Pro)
   
   Slicer documentation can be found on the [`Orca Slicer Github Page`](https://github.com/SoftFever/OrcaSlicer)
 
