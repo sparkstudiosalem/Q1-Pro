@@ -53,6 +53,8 @@ Filament profiles will also be provided and documented. This github will be a st
 Orca Slicer can also be downloaded and configured easily on your own computers to send files and monitor print status from within the space. There is no cloud functionality built into the Q1-Pro. 
 As of currently the Q1-Pro profile is only natively included in the nightly build of [`Orca Slicer`](https://github.com/SoftFever/OrcaSlicer/releases/tag/nightly-builds). Once it is added to an official release, the software version at the space, as well as this link will be updated.
 
+[`Instructions`](/OrcaLearning) can be found in this repo in [/OrcaLearning]
+
 ## Preparing the printer for Print Jobs and removing prints from the build surface
 Before printing any Job, the Build area must be prepared. The build plate may need to be coated with hairspray, glue stick, or tape before printing, depending on the filament selected.
 Users nust ensure the build plate is installed before any print is started. It may also be beneficial to preheat the printer's chamber for an extended time after a long pause between prints, or before filaments more prone to warping. 
