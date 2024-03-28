@@ -53,7 +53,7 @@ Filament profiles will also be provided and documented. This github will be a st
 Orca Slicer can also be downloaded and configured easily on your own computers to send files and monitor print status from within the space. There is no cloud functionality built into the Q1-Pro. 
 As of currently the Q1-Pro profile is only natively included in the nightly build of [`Orca Slicer`](https://github.com/SoftFever/OrcaSlicer/releases/tag/nightly-builds). Once it is added to an official release, the software version at the space, as well as this link will be updated.
 
-[`Instructions`](/OrcaLearning) can be found in this repo in [/OrcaLearning]
+[`Instructions`](/OrcaLearning) can be found in this repo in [/OrcaLearning](/OrcaLearning)
 
 ## Preparing the printer for Print Jobs and removing prints from the build surface
 Before printing any Job, the Build area must be prepared. The build plate may need to be coated with hairspray, glue stick, or tape before printing, depending on the filament selected.
@@ -78,3 +78,8 @@ Modification authorization will be granted to a specific project to be completed
 
 Modifications to any part of the printer may result in termination of that printer's warranty per Qidi's guidelines.
 ![Screenshot of ssh Warning](/readme_elements/SSH_Warning_Message.png "Screenshot of SSH Warning Message")
+
+
+## Other Documentation
+
+Please see [Links.txt](Links.txt) with links to further documentation, including [Qidi Official Wiki](https://wiki.qidi3d.com/en/Q1-Pro) as well as [Klipper Docs](https://www.klipper3d.org/Overview.html)
