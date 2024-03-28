@@ -1,0 +1,11 @@
+[Variables]
+bed_temp = 0.0
+file_path = ''
+filepath = ''
+hot_temp = 0.0
+last_file = ''
+power_resume_z = 0.0
+print_temp = 0.0
+was_interrupted = False
+z_offset = 0.0
+
