@@ -28,7 +28,7 @@ Only authorized users should operate the Qidi Q1-Pro 3D-Printer, all unathorized
 During printing of low temperature, low hazard materials, the top cover of the printer should be removed and the front door should be opened for proper part cooling and air circulation. 
 Leaving the enclosure assembled may also lead to heat creep in the extrusion system resulting in blockages of the filament path and failed prints.
 
-These filaments may inculde but are not limited to:
+These filaments inculde but are not limited to:
 
 * PLA
 * PETG
@@ -37,14 +37,14 @@ These filaments may inculde but are not limited to:
 -----
 Higher Temperature filaments may benefit from the use of the enclosed build area of this 3D-Printer. These filaments may be susceptible to draft or cooling related warping, causing prints to or even detach from the build plate.
 
-These filaments may include but are not limited to:
+These filaments include but are not limited to:
 * ABS
 * ASA
 * PolyCarbonate
 * PA6/PA12 Nylons
 * Above Filament's reinforced counterparts i.e. Carbon Fiber, Glass Filled, Etc.
 
-Some filaments are also likely to release VOCs (Volitile Organic Compounts) while printing. These plastics should only be printed with the enclosure completely sealed and the chamber filter installed and activated.
+Some filaments are also likely to release VOCs (Volatile Organic Compounds) while printing. These plastics should only be printed with the enclosure completely sealed and the chamber filter installed and activated.
 
 ## Accessing print profiles and webUI from OrcaSlicer
 OrcaSlicer has already been Pre-Configured on the designated 3D-Printing Computer at Spark Studio. It will provide easy slicing and device access, as well as gcode streaming without the use of any SD-Card Or USB Flash-Drive.
@@ -57,7 +57,7 @@ As of currently the Q1-Pro profile is only natively included in the nightly buil
 
 ## Preparing the printer for Print Jobs and removing prints from the build surface
 Before printing any Job, the Build area must be prepared. The build plate may need to be coated with hairspray, glue stick, or tape before printing, depending on the filament selected.
-Users nust ensure the build plate is installed before any print is started. It may also be beneficial to preheat the printer's chamber for an extended time after a long pause between prints, or before filaments more prone to warping. 
+Users must ensure the build plate is installed before any print is started. It may also be beneficial to preheat the printer's chamber for an extended time after a long pause between prints, or before printing with filaments more prone to warping. 
 The Chamber heater can be enabled via the fluidd interface within OrcaSlicer's Device page, or from the web. It can be found in the "Thermals" Section of the page labeled as "Chamber". Here you will also find heating controls for the Printbed and Extruder.
 
 Prints may only be removed from the build surface after the bed has cooled to ambient temperature. Periodic washing of the build surface may be necessary. 
