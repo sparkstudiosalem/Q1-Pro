@@ -46,14 +46,18 @@ These filaments may include but are not limited to:
 
 Some filaments are also likely to release VOCs (Volitile Organic Compounts) while printing. These plastics should only be printed with the enclosure completely sealed and the chamber filter installed and activated.
 
+More detailed material information will be added here in a future update to this document.
+
 ## Accessing print profiles and webUI from OrcaSlicer
 OrcaSlicer has already been Pre-Configured on the designated 3D-Printing Computer at Spark Studio. It will provide easy slicing and device access, as well as gcode streaming without the use of any SD-Card Or USB Flash-Drive.
 Filament profiles will also be provided and documented. This github will be a storage location for any tuned printer or filament profiles that are created.
 
 Orca Slicer can also be downloaded and configured easily on your own computers to send files and monitor print status from within the space. There is no cloud functionality built into the Q1-Pro. 
-As of currently the Q1-Pro profile is only natively included in the nightly build of [`Orca Slicer`](https://github.com/SoftFever/OrcaSlicer/releases/tag/nightly-builds). Once it is added to an official release, the software version at the space, as well as this link will be updated.
+As of currently the Q1-Pro profile is officially natively included in the version 2.0.0 release of [`Orca Slicer`](https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.0.0). It can be downloaded for your personal computer easily aswell.
 
-[`Instructions`](/OrcaLearning) can be found in this repo in [/OrcaLearning](/OrcaLearning)
+[`A basic Orca Slicer Tutorial`](/OrcaLearning) can be found in this repo in [/OrcaLearning](/OrcaLearning) if you needed.
+
+The Q1-Pro can be added to orca slicer from its IP of : 10.1.10.101:10083 . This will only work while your Computer / Smartphone is connected to the spk24 network. This IP is assigned via DHCP so it may become altered at some point. The current ip can be found on the touchscreen of the printer by clicking the "Settings" cog in the bottom right corner. Then clicking "Settings" in the top right, followed by "Network >" . You may have to wait up to 10 seconds for the current IP to be populated in the box on the screen.
 
 ## Preparing the printer for Print Jobs and removing prints from the build surface
 Before printing any Job, the Build area must be prepared. The build plate may need to be coated with hairspray, glue stick, or tape before printing, depending on the filament selected.
