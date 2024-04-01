@@ -1,0 +1,5 @@
+# Links to further documentation:
+
+https://wiki.qidi3d.com/en/Q1-Pro
+
+https://www.klipper3d.org/Overview.html

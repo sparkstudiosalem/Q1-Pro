@@ -1,0 +1,24 @@
+
+[fila]
+enable                         = 1
+
+
+[target]
+extruder                       = 220
+heaterbed                      =60
+hot                            = 55
+
+
+[babystep]
+value                          = 0
+adxl_offset                    = 0.15
+
+
+[oobe]
+enable                         = 0
+
+
+[mks_ethernet]
+enable                         = 0
+
+
