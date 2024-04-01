@@ -55,7 +55,7 @@ Filament profiles will also be provided and documented. This github will be a st
 Orca Slicer can also be downloaded and configured easily on your own computers to send files and monitor print status from within the space. There is no cloud functionality built into the Q1-Pro. 
 As of currently the Q1-Pro profile is officially natively included in the version 2.0.0 release of [`Orca Slicer`](https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.0.0). It can be downloaded for your personal computer easily aswell.
 
-[`A basic Orca Slicer Tutorial`](/OrcaLearning) can be found in this repo in [/OrcaLearning](/OrcaLearning) if you needed.
+[`A basic Orca Slicer Tutorial`](/OrcaLearning) can be found in this repo in [/OrcaLearning](/OrcaLearning) if needed.
 
 The Q1-Pro can be added to orca slicer from its IP of : 10.1.10.101:10083 . This will only work while your Computer / Smartphone is connected to the spk24 network. This IP is assigned via DHCP so it may become altered at some point. The current ip can be found on the touchscreen of the printer by clicking the "Settings" cog in the bottom right corner. Then clicking "Settings" in the top right, followed by "Network >" . You may have to wait up to 10 seconds for the current IP to be populated in the box on the screen.
 
