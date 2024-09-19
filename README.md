@@ -1,5 +1,10 @@
 # Q1-Pro Standard Operating Procedures (SOP)
 
+## Designated Committee / Tool Director
+
+As of September 2024, contact Jacob Munoz for any questions or authorizations.
+If unavailable, contact a Board member.
+
 ## Please read this document in its entirety to learn how to use the Q1-Pro 3d printer safely and responsibly.
 -------------------------------
 This Document will provide step-by-step instructions for operating the Qidi Q1-Pro 3D-Printer utilizing OrcaSlicer to ensure safe and effecient printing and outline any rules and procedures that must be followed by any user to use this 3D-Printer
@@ -57,7 +62,12 @@ As of currently the Q1-Pro profile is officially natively included in the versio
 
 [`A basic Orca Slicer Tutorial`](/OrcaLearning) can be found in this repo in [/OrcaLearning](/OrcaLearning) if needed.
 
-The Q1-Pro can be added to orca slicer from its IP of : 10.1.10.101:10083 . This will only work while your Computer / Smartphone is connected to the spk24 network. This IP is assigned via DHCP so it may become altered at some point. The current ip can be found on the touchscreen of the printer by clicking the "Settings" cog in the bottom right corner. Then clicking "Settings" in the top right, followed by "Network >" . You may have to wait up to 10 seconds for the current IP to be populated in the box on the screen.
+The Q1-Pro can be added to orca slicer from its IP of http://10.1.10.101:10088 . This will only work while your Computer / Smartphone is connected to the spk24 network. This IP is assigned via DHCP so it may become altered at some point. The current ip can be found on the touchscreen of the printer by clicking the "Settings" cog in the bottom right corner. Then clicking "Settings" in the top right, followed by "Network >" . You may have to wait up to 10 seconds for the current IP to be populated in the box on the screen.
+
+### Remote Access
+
+Authorized individuals may request remote access via TailScale from the Designated Committee / Tool Director.
+Once connected, enable the `opnsense` Exit Node and access http://10.1.10.101:10088 in your web browser.
 
 ## Preparing the printer for Print Jobs and removing prints from the build surface
 Before printing any Job, the Build area must be prepared. The build plate may need to be coated with hairspray, glue stick, or tape before printing, depending on the filament selected.
@@ -77,7 +87,7 @@ It is imperative users keep the the 3D-Printer clear of any tools, loose article
 ## Other Rules & Misc. Procedures
 
 
-* No part of the Qidi Q1-Pro 3D-Printer (firmware, software, hardware, Etc.) will be modified by any authorized or unauthorized users without explicit permission from the Designated Commitee, or tool Director. 
+* No part of the Qidi Q1-Pro 3D-Printer (firmware, software, hardware, Etc.) will be modified by any authorized or unauthorized users without explicit permission from the Designated Committee, or tool Director. 
 Modification authorization will be granted to a specific project to be completed by a specific user. 
 
 Modifications to any part of the printer may result in termination of that printer's warranty per Qidi's guidelines.
